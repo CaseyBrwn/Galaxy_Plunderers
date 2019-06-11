@@ -25,6 +25,12 @@ In addition, this project will include:
   
 ### Wireframes
 
-This app will be a single screen with the canvas element centered.  Around the edges will be instructions and retro style    designs
+This app will be a single screen with the canvas element centered.  
+
+A modal drop down will be accesible via an instructions button.
+
+Play, pause, restart functionality will be display along the bottom, utilizing buttons on a retro nintendo style controller.
+
+
 
   
