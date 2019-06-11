@@ -40,6 +40,38 @@ The following technologies will be utilized:
   * Vanilla JavaScript for overall structure and game logic,
   * HTML5 Canvas for DOM manipulation and rendering,
 
+In addition to webpack the bellow scrpits will be utilized:
+
+  * plunderers.js : will house logic for plunderers and users ship as well as barriers
+  
+Implementation Timeline
+
+Day 1:
+
+  * Setup all Node Mopdules, get webpack working.  Write the entry file and outline the plunderes.js.
+  * Complete WebAudioAPI Tutorial and load basic sound 
+
+Day 2:
+  * Render the basic objects to canvas including users spaceship, plunderers and barriers.
+  * Implement user movement 
+ 
+ Day 3:
+  * Implement Plunderers movements and both users and Plunderers firing ability
+  
+ Day 4:
+  * Impliment collision detection with fired weapons and allow invader destruction 
+ 
+ Day 5:
+ * Build out users controls, start, pause, reset
+ * Style with CSS
+ 
+ 
+ ### Bonus features
+ 
+  * Addtional levels and plunderers
+  * Additional Weapons to be fired at plunderers
+ 
+
 
 
   
