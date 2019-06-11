@@ -33,5 +33,13 @@ Play, pause, restart functionality will be display along the bottom, utilizing b
 
 ![alt text](https://user-images.githubusercontent.com/48530387/59269332-c98dd800-8c1c-11e9-88cd-da0740f82c58.png)
 
+### Architecture and Technologies
+
+The following technologies will be utilized:
+
+  * Vanilla JavaScript for overall structure and game logic,
+  * HTML5 Canvas for DOM manipulation and rendering,
+
+
 
   
