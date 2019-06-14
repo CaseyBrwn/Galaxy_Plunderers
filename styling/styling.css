@@ -1,5 +1,91 @@
+
+#Maindiv{
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ background-color: grey;
+}
+
+#titlebanner{
+    width: 80%;
+ position: absolute;
+ color: black;
+   top:5%;
+   left:50%;
+   transform: translate(-50%, -50%);
+   font-size: 60px;
+   font-family: 'Press Start 2P', cursive;
+    
+}
+
+#TVcanvasdiv{
+position: absolute;
+width: 50%;
+height: 50%;
+top: 50%;
+left:50%;
+transform: translate(-50%, -50%);
+
+}
+
+#television{
+position: absolute;
+width: 895px;
+height: 642px;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+
+}
+
 #myCanvas{
-    background: rgb(204, 204, 204);
+  position: absolute;
+  top:50%;
+   left:39%;
+   transform: translate(-50%, -50%);
+    background: rgb(0, 0, 0);
     display: block;
     margin: 0 auto;
+}
+
+
+#instructions{
+display: flex;
+flex-direction: column;
+  position: absolute;
+  top:50%;
+   left:10%;
+   transform: translate(-50%, -50%);
+   width: 12%;
+   height: 70%;
+   border: 1px solid black;
+}
+
+#instructions div{
+    margin: 15px;
+    font-family: 'Press Start 2P', cursive;
+
+}
+
+#Objectives{
+    display: flex;
+flex-direction: column;
+  position: absolute;
+  top:50%;
+   left:90%;
+   transform: translate(-50%, -50%);
+   width: 12%;
+  
+   border: 1px solid black;
+}
+
+#Objectives div{
+    font-size: 15px;
+    margin: 10px;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1.5;
+
+
 }
